@@ -2,9 +2,9 @@
 https://developers.facebook.com/docs/messenger-platform/getting-started/quick-start
 ## requirement
 - [x] dotenv
-- [ ] json structure
+- [x] json structure
 - [ ] Persistent Menu https://developers.facebook.com/docs/messenger-platform/send-messages/persistent-menu
-- [ ] quick reply
+- [x] quick reply
 - [ ] interval
 - [ ] state
 ## lib
